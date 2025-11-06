@@ -1,4 +1,4 @@
-import { data } from "../reviews/data.js";
+import { data } from "../../reviews/data.js";
 
 export default function Rewive() {
   return (

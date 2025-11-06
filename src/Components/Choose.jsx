@@ -1,4 +1,4 @@
-      import  Rewive from "./Rewive"
+   import  Rewive from "./ui/Rewive"
 
 
  export default function Choose() {
