@@ -8,12 +8,14 @@ import {Choose} from "../components/Choose.jsx";
 
 function Home() {
   return (
-    <>    <Navbar />
+    <>    
       <Hero />
       <Section />
       <Services />
-      <Choose /></>
+      <Choose />
+    
+    </>
   )
 }
 
-export default Home
+export default Home;
