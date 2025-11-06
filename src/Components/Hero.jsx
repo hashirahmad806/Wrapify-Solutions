@@ -1,4 +1,3 @@
-      import  Rewive from "./Rewive"
 
 function Hero() {
   return (
