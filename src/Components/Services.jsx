@@ -1,6 +1,6 @@
 
 
-   export default function Services() {
+   export  function Services() {
   return (
     <section className="py-20 bg-[#FAFAFA]">
       <div className="text-center mb-12">

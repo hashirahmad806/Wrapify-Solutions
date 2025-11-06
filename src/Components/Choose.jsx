@@ -1,7 +1,7 @@
    import  Rewive from "./ui/Rewive"
 
 
- export default function Choose() {
+ export  function Choose() {
   return (
     <>
     <section className="py-20 bg-[#FAFAFA]">

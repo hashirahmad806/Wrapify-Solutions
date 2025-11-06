@@ -1,5 +1,5 @@
 
- export default function StatsSection() {
+ export  function StatsSection() {
   const stats = [
     {
       icon: "https://img.icons8.com/ios-filled/50/375FA6/briefcase.png",

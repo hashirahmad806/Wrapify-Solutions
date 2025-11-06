@@ -1,5 +1,5 @@
 
-function Hero() {
+ export function Hero() {
   return (
     <div className="w-full flex flex-col lg:flex-row items-center justify-between px-6 sm:px-10 py-16 sm:py-20 bg-[#FAFAFA] font-[inter-regular]">
       
@@ -42,7 +42,7 @@ function Hero() {
   );
 }
 
-export default Hero;
+
 
 
 

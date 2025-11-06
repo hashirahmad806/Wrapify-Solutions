@@ -1,6 +1,6 @@
 import { data } from "../../reviews/data.js";
 
-export default function Rewive() {
+export  function Rewive() {
   return (
     <section className="py-20 bg-gray-50">
       <div className="max-w-6xl mx-auto px-6 text-center">
